@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "code-flow",
-      "description": "Agent coding workflow with plan-before-implement discipline, TDD, vertical slices, Linear integration, and immutable git-based plan versioning.",
+      "description": "A workflow for agentic coding where 1) you track implementation plans and tasks in version control, issue tracker 2) identify and implement the risky/unknown bits first 3) implement vertical slices of functionality 4) only increase code quality and test coverage after sufficient de-risking",
       "skills": ["./skills/code-flow"],
       "author": {
         "name": "Pramod Biligiri",
@@ -19,7 +19,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/pramodbiligiri/code-flow.git",
-        "sha": "6975d1775b8a4ebf666635671d0747ba8159fa27"
+        "sha": "adcbe581794f96d23b4c41326b9d772d70468ab7"
       },
       "homepage": "https://github.com/pramodbiligiri/code-flow/"
     }
