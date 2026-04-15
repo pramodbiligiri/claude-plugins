@@ -1,3 +1,1 @@
-claude-plugins
-==============
-A marketplace repo for claude plugins
+Moved to [bitkentech/claude-plugins](https://github.com/bitkentech/claude-plugins)
